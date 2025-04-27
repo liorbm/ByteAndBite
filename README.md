@@ -19,7 +19,7 @@ No more endless refreshing—get notified the moment your chosen venue opens for
 1. **Clone this repository** (or download `ByteAndBite.py`):
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/liorbm/ByteAndBite
    cd ByteAndBite
    ```
 
@@ -77,12 +77,6 @@ No more endless refreshing—get notified the moment your chosen venue opens for
 
 Pull requests and suggestions are welcome!  
 Feel free to open an issue or submit a PR.
-
----
-
-## 📄 License
-
-MIT License
 
 ---
 
